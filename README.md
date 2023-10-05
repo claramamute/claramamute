@@ -4,7 +4,7 @@ Iniciei a pouco como {dev}, então aceito qualquer dica sz
 <div align="left">
   <a href="https://github.com/manuletsgo">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=claramamute&show_icons=true&count_private=true&line_height=30&theme=midnight-purple"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manuletsgo&layout=compact&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=claramamute&layout=compact&theme=midnight-purple"/>
 </div>
 
 <div style="display: inline_block"><br>
