@@ -2,9 +2,9 @@
 Iniciei a pouco como {dev}, então aceito qualquer dica sz
 
 <div align="left">
-  <a href="https://github.com/manuletsgo">
+  <a href="https://github.com/claramamute">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=claramamute&show_icons=true&count_private=true&line_height=30&theme=midnight-purple"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=claramamute&layout=compact&theme=midnight-purple"/>
+  <img height="100em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=claramamute&layout=compact&theme=midnight-purple"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -12,7 +12,7 @@ Iniciei a pouco como {dev}, então aceito qualquer dica sz
   <img align="center" alt="Clara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Clara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Clara-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Clara-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
 
