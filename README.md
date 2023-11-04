@@ -1,4 +1,4 @@
-### Hello World! Sou Clara e to iniciando como {dev}
+### Olá! Sou Clara e sou {dev} iniciante!
 
 
 <div align="center">
