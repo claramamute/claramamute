@@ -4,7 +4,7 @@
 <div align="center">
   <a href="https://github.com/claramamute">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=claramamute&show_icons=true&count_private=true&line_height=30&theme=midnight-purple"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=claramamute&layout=compact&theme=midnight-purple"/>
 </div>
 
 <div align="center">
