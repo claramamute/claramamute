@@ -1,4 +1,8 @@
-### Olá! Sou Clara e sou {dev} iniciante!
+ ### Olá! Meu nome é Clara e sou {dev} iniciante!
+ 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
+
 
 
 <div align="center">
@@ -19,4 +23,4 @@
   <img align="center" alt="Clara-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=footer"/>
