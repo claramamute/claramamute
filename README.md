@@ -25,10 +25,14 @@ Comunicativa, corajosa, líder, extrovertida, criativa esse é meu jeito Tech de
 
 
 <div style="display: inline_block" >
+   <img align="center" alt="Clara-Cloud" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
+   <img align="center" alt="Clara-Git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+   <img align="center" alt="ClaraNode" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="Clara-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Clara-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center"  alt="Clara-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center"  alt="Clara-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Clara-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
 </div>
 <br>
 
