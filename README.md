@@ -1,11 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f7e00&height=120&section=header"/>
 <img align="right" alt="" height="300px" src="">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0f7e00&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+a+Clara!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0f7e00&random=false&width=435&height=40&lines=Prazer%2C+Clara+Araujo+aqui!)](https://git.io/typing-svg)
 
-<p align="left">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Uninter.
-Me interesso back-end quanto por front-end, e minhas principais linguagens são Python e JavaScript. 
-Eu estou em aprendizado constante, pois adoro utilizar meus conhecimentos para criar soluções inovadoras!</p>  
+<p align="center">Sou uma jovem amante da tecnologia e, desde que descobri essa paixão, não perdi tempo e logo entrei a fundo no aprendizado.<br>
+Me interesso muito nas áreas de <strong>Cloud Computing, Inteligência Artificial e Data Science</strong> em conjunto com o desenvolvimento, pois consigo criar soluções eficientes, inovadoras e únicas!
+<br>
+Comunicativa, corajosa, líder, extrovertida, criativa esse é meu jeito Tech de ser!</p>  
 
 
 
