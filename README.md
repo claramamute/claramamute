@@ -1,8 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f7e00&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0f7e00&random=false&width=435&height=40&lines=Prazer%2C+Clara+Araujo+aqui!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0f7e00&random=false&width=435&height=40&lines=Prazer%2C+Clara+Araujo+aqui!)](https://git.io/typing-svg)
 
-<p align="center">Sou uma jovem amante da tecnologia e, desde que descobri essa paixão, não perdi tempo e logo entrei a fundo no aprendizado.<br>
+<img src="https://media.giphy.com/media/1A7ETzpIvs7GzWOYYC/giphy.gif?cid=790b7611vm24ssk61r7ymciyrbae6tn4oyxjljsenlnj5xcd&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200">
+ 
+---
+
+<p align="center">Sou uma jovem apaixonada por tecnologia e, desde que descobri essa paixão, não perdi tempo e logo entrei a fundo no aprendizado.<br>
 Me interesso muito nas áreas de <strong>Cloud Computing, Inteligência Artificial e Data Science</strong> em conjunto com o desenvolvimento, pois consigo criar soluções eficientes, inovadoras e únicas!
 <br>
 Comunicativa, corajosa, líder, extrovertida, criativa esse é meu jeito Tech de ser!</p>  
