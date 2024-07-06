@@ -1,21 +1,25 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0f7e00&height=120&section=header"/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0f7e00&random=false&width=435&height=40&lines=Prazer%2C+Clara+Araujo+aqui!)](https://git.io/typing-svg)
 
-<img src="https://media.giphy.com/media/1A7ETzpIvs7GzWOYYC/giphy.gif?cid=790b7611vm24ssk61r7ymciyrbae6tn4oyxjljsenlnj5xcd&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200">
- 
----
+<img  align="right" src="https://media.giphy.com/media/1A7ETzpIvs7GzWOYYC/giphy.gif?cid=790b7611vm24ssk61r7ymciyrbae6tn4oyxjljsenlnj5xcd&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200">
+
+<div  align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=0f7e00&random=false&width=435&height=40&lines=Prazer%2C+Clara+Araujo+aqui!)](https://git.io/typing-svg)
+</div>
+
+
 
 <p align="center">Sou uma jovem apaixonada por tecnologia e, desde que descobri essa paixão, não perdi tempo e logo entrei a fundo no aprendizado.<br>
 Me interesso muito nas áreas de <strong>Cloud Computing, Inteligência Artificial e Data Science</strong> em conjunto com o desenvolvimento, pois consigo criar soluções eficientes, inovadoras e únicas!
 <br>
 Comunicativa, corajosa, líder, extrovertida, criativa esse é meu jeito Tech de ser!</p>  
 
+---
 
+<h3>GitHub Stats:</h3>
 
-<h3>GitHub Stats</h3>
-
-<div>
+<div align="center" >
   <a href="https://github.com/claramamute">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=claramamute&show_icons=true&count_private=true&line_height=30&theme=chartreuse-dark"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=claramamute&layout=compact&theme=chartreuse-dark"/>
@@ -23,11 +27,12 @@ Comunicativa, corajosa, líder, extrovertida, criativa esse é meu jeito Tech de
 
 <br>
 
+---
 
-<h3>My Stack</h3>
+<h3>My Stack:</h3>
 
 
-<div style="display: inline_block" >
+<div style="display: inline_block" align="center" >
    <img align="center" alt="Clara-Cloud" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg">
    <img align="center" alt="Clara-Git" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
    <img align="center" alt="ClaraNode" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
@@ -47,7 +52,7 @@ Comunicativa, corajosa, líder, extrovertida, criativa esse é meu jeito Tech de
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0f7e00&color:FFF)](https://www.linkedin.com/in/clara-araujo-73651627a/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0f7e00&color:FFF)](https://www.instagram.com/clara_araujomp/)
 
-<picture>
+<picture >
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/claramamute/claramamute/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/claramamute/claramamute/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/claramamute/claramamute/output/github-contribution-grid-snake.svg">
